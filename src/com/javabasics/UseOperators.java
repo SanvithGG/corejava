@@ -32,8 +32,10 @@ public class UseOperators {
 	System.out.println("------------------------");
 	System.out.println("Eligibility for marrage");
 	System.out.println("age : 22 to 32");
+	
 	int age = 20;
 	System.out.println(age >=22 && age <=32);
 	System.out.println("-------------------------");
+	 
    }
 }
